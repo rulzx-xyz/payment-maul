@@ -1,0 +1,5 @@
+{
+  "name": "Cyberpunk Payment Portal",
+  "description": "A futuristic, cyberpunk-themed payment portal UI that allows users to view payment information, copy account numbers, and download a QR code.",
+  "requestFramePermissions": []
+}
